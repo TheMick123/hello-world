@@ -1,3 +1,5 @@
 # hello-world
 First Rep
-Hello
+
+First note, 
+I dont know what i am doing
